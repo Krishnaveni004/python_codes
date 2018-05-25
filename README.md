@@ -1,2 +1,2 @@
-# python_craze
+# python_codes
 Contains all my python files :)
